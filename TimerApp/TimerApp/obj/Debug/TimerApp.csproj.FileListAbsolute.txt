@@ -1,0 +1,10 @@
+C:\Users\gogol\source\repos\TimerApp\TimerApp\bin\Debug\TimerApp.exe.config
+C:\Users\gogol\source\repos\TimerApp\TimerApp\bin\Debug\TimerApp.exe
+C:\Users\gogol\source\repos\TimerApp\TimerApp\bin\Debug\TimerApp.pdb
+C:\Users\gogol\source\repos\TimerApp\TimerApp\obj\Debug\TimerApp.csproj.AssemblyReference.cache
+C:\Users\gogol\source\repos\TimerApp\TimerApp\obj\Debug\TimerApp.Form1.resources
+C:\Users\gogol\source\repos\TimerApp\TimerApp\obj\Debug\TimerApp.Properties.Resources.resources
+C:\Users\gogol\source\repos\TimerApp\TimerApp\obj\Debug\TimerApp.csproj.GenerateResource.cache
+C:\Users\gogol\source\repos\TimerApp\TimerApp\obj\Debug\TimerApp.csproj.CoreCompileInputs.cache
+C:\Users\gogol\source\repos\TimerApp\TimerApp\obj\Debug\TimerApp.exe
+C:\Users\gogol\source\repos\TimerApp\TimerApp\obj\Debug\TimerApp.pdb
